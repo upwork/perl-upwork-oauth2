@@ -27,7 +27,7 @@ use constant TOKEN_TYPE_BEARER => 'Bearer';
 
 =head1 NAME
 
-API
+Net::Upwork::API - Perl bindings for Upwork API (OAuth2).
 
 =head1 FUNCTIONS
 
