@@ -1,3 +1,6 @@
+## 2.0.1
+* Fix CPANTS errors
+
 ## 2.0.0
 * OAuth2 release
 
