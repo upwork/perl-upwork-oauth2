@@ -19,7 +19,7 @@ use warnings;
 use Net::Upwork::API::Config;
 use Net::Upwork::API::Client;
 
-our $VERSION = '2.0.0';
+our $VERSION = '2.0.1';
 
 use constant TOKEN_TYPE_BEARER => 'Bearer';
 
@@ -27,7 +27,7 @@ use constant TOKEN_TYPE_BEARER => 'Bearer';
 
 =head1 NAME
 
-API
+Net::Upwork::API - Perl bindings for Upwork API (OAuth2).
 
 =head1 FUNCTIONS
 
@@ -211,6 +211,11 @@ Maksym Novozhylov C<< <mnovozhilov@upwork.com> >>
 =head1 COPYRIGHT
 
 Copyright E<copy> Upwork Global Corp., 2018
+
+=head1 LICENSE
+
+This is released under the Apache Version 2.0
+License. See L<https://www.apache.org/licenses/LICENSE-2.0>.
 
 =cut
 
