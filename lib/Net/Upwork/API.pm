@@ -204,6 +204,11 @@ sub client {
 
 =back
 
+=head1 LICENSE
+
+This is released under the Apache Version 2.0
+License. See L<https://www.apache.org/licenses/LICENSE-2.0>.
+
 =head1 AUTHOR
 
 Maksym Novozhylov C<< <mnovozhilov@upwork.com> >>
@@ -211,11 +216,6 @@ Maksym Novozhylov C<< <mnovozhilov@upwork.com> >>
 =head1 COPYRIGHT
 
 Copyright E<copy> Upwork Global Corp., 2018
-
-=head1 LICENSE
-
-This is released under the Apache Version 2.0
-License. See L<https://www.apache.org/licenses/LICENSE-2.0>.
 
 =cut
 
