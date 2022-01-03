@@ -1,3 +1,13 @@
 /vendor
 *~
 composer.lock
+Build
+Makefile.PL
+META.yml
+META.json
+MYMETA.yml
+MYMETA.json
+blib/*
+_build/*
+*.bak
+Net-Upwork-API-*.tar.gz
