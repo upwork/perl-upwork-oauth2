@@ -1,3 +1,6 @@
+## 2.1.4
+* Add GraphQL support
+
 ## 2.1.3
 * Fixed HR module
 
