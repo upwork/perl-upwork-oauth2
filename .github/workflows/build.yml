@@ -16,7 +16,7 @@ jobs:
       fail-fast: false
       matrix:
         os: [ubuntu-latest, macos-latest]
-        perl: [ '5.28', '5.30' ]
+        perl: [ '5.28', '5.30', '5.34' ]
 
     name: Perl ${{ matrix.python }}
     steps:
