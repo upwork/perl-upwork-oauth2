@@ -23,7 +23,7 @@ use constant ENTRY_POINT => Net::Upwork::API::Client::ENTRY_POINT_API;
 
 =head1 NAME
 
-Auth
+Messages
 
 =head1 FUNCTIONS
 
@@ -48,7 +48,7 @@ sub new {
 
 =item get_rooms
 
-    Retrive rooms information
+    Retrieve rooms information
 
 B<Return value>
 

@@ -23,7 +23,7 @@ use constant ENTRY_POINT => Net::Upwork::API::Client::ENTRY_POINT_GDS;
 
 =head1 NAME
 
-Auth
+Reports::Finance::Accounts
 
 =head1 FUNCTIONS
 

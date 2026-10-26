@@ -23,7 +23,7 @@ use constant ENTRY_POINT => Net::Upwork::API::Client::ENTRY_POINT_API;
 
 =head1 NAME
 
-Auth
+Organization::Teams
 
 =head1 FUNCTIONS
 
